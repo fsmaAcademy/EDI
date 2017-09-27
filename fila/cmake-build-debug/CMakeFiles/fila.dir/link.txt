@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/fila.dir/main.cpp.o CMakeFiles/fila.dir/Fila.cpp.o  -o fila 

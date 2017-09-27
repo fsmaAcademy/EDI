@@ -1,0 +1,3 @@
+/home/thiago/Desktop/StackProjetct/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thiago/Desktop/StackProjetct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/thiago/Desktop/StackProjetct/cmake-build-debug/CMakeFiles/StackProjetct.dir
